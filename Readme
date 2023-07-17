@@ -19,3 +19,11 @@ method |   path    |           response            |   headers     |      body
 
 
 ไฟล์ TTD_Test.js คือ โจทย์ข้อที่ 1
+
+Rendered
+-----------------
+Col1  | Col2  |  Col3 | Col4
+----- | ----- | ----- | ----- |
+Test1 | Test1 | Test1 | Test1 |
+Test2 | Test2 | Test2 | Test2 |
+Test3 | Test3 | Test3 | Test3 |
