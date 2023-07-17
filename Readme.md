@@ -10,7 +10,7 @@
 ----------------------------
 
 method |   path    |           response            |   headers     |      body 
------- | --------- | ----------------------------- | ------------- | --------------|
+------ | --------- | ----------------------------- | ------------- | ---------|
  GET   |   data    |            {data}             |      -        |       -       |
  GET   | auth/data |            {data}             | access_token  |       -       |
  POST  | refresh   | {access_token, refresh_token} | refresh_token |       -       |
